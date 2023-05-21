@@ -1,0 +1,34 @@
+{
+  "version": "5",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1684662980717,
+      "tag": "0000_orange_the_enforcers",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1684666955549,
+      "tag": "0001_brainy_guardian",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1684675255653,
+      "tag": "0002_sturdy_vanisher",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "5",
+      "when": 1684676470565,
+      "tag": "0003_overconfident_imperial_guard",
+      "breakpoints": true
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+{
+    "schema": "./src/db/schema.ts",
+    "out": "./src/db/migrations",
+    "breakpoints": true,
+    "connectionString": "libsql://tonero-brightonmboya.turso.io"
+}
